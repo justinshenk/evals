@@ -2,6 +2,8 @@
 
 **Environment Realism in AI Control Evaluations**
 
+[Slides](https://docs.google.com/presentation/d/1ZvKeaTdXbH60jXFsMP79ozhjJ0t2xUbB0f2BboJUEM8/edit?slide=id.p#slide=id.p)
+
 Frontier LLMs can detect whether they're operating on synthetic test data or production systems — and this detection changes their behavior. This repo provides a graduated realism framework for measuring this effect, with implications for [AI control](https://arxiv.org/abs/2312.06942) evaluation integrity.
 
 ![Environment Detection](realistic_env/fig1_detection_v2.png)
